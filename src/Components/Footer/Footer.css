@@ -1,0 +1,7 @@
+.footerPost {
+  width: calc(100% / 8);
+  opacity: 1;
+}
+.footerPost:hover {
+  opacity: 0.5;
+}
